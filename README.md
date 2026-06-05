@@ -2,13 +2,13 @@
 
 Este proyecto es una demostración académica y práctica del algoritmo de aprendizaje no supervisado **Hierarchical Clustering** (Agrupamiento Jerárquico), aplicado para clasificar especies de flores utilizando el *Dataset Iris* sin depender de sus etiquetas originales.
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 
 *   **`APRENDIZAJE_NO_SUPERVISADO.ipynb`**: Notebook de Jupyter detallado con toda la fundamentación matemática, el preprocesamiento, análisis exploratorio, extracción del método Ward, cálculo de la métrica *Silhouette Score* y la comparación detallada de las ventajas y limitaciones del modelo.
 *   **`app.py`**: Interfaz web interactiva construida en **Streamlit**. Permite manipular dinámicamente el número de clusters y el método de enlace para comprender, en tiempo real, el proceso de agrupamiento en el dendrograma y la división geométrica de las especies biológicas mediante gráficos escalables SVG.
 *   **`requirements.txt`**: Dependencias para reproducir el proyecto localmente.
 
-## 🚀 Cómo ejecutar la Aplicación Interactiva Localmente
+## Cómo ejecutar la Aplicación Interactiva Localmente
 
 1.  **Asegúrate de estar en la carpeta del repositorio y tener Python instalado.**
 2.  **Crea y activa un entorno virtual:**
